@@ -8,7 +8,7 @@
     {
       "id": "berryanimes",
       "name": "Berry Animes",
-      "description": "Séries de anime • Qualidade: até 1080p nos testes, conforme o episódio • Formato: HLS • Multiáudio; conta incluída.",
+      "description": "Séries de anime • Qualidade: até 1080p nos testes, conforme o episódio • Formato: HLS • Multiáudio.",
       "version": "0.1.1",
       "filename": "providers/berryanimes.js",
       "logo": "https://berryanimes.com/icons/icon-192.png",
@@ -54,7 +54,7 @@
     {
       "id": "anistream",
       "name": "AniStream",
-      "description": "Animes: séries e filmes • Qualidade: 1080p nos testes, conforme o arquivo • Formatos: MKV e MP4 • Multiáudio; conta incluída.",
+      "description": "Animes: séries e filmes • Qualidade: 1080p nos testes, conforme o arquivo • Formatos: MKV e MP4 • Multiáudio.",
       "version": "0.1.1",
       "filename": "providers/anistream.js",
       "logo": "https://anistream.biz/icons/icon-192.png",
