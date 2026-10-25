@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+*.log
+.freebuff/
+
+# O repositório público é apenas de distribuição para o Nuvio.
+# O código-fonte e as ferramentas de desenvolvimento continuam locais.
+src/
+test/
+scripts/
+docs/
+build.mjs
+server.mjs
+package.json
+package-lock.json
+MIGRATION.md
