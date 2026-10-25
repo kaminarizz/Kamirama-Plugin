@@ -1,7 +1,7 @@
 {
   "name": "Kamirama",
   "version": "0.1.7",
-  "description": "Kamirama — fontes PT-BR de anime para o runtime QuickJS do Nuvio.",
+  "description": "Kamirama — fontes PT-BR de anime/filme/série/dorama/donghua para o Nuvio.",
   "author": "Kami",
   "logo": "https://i.imgur.com/aYby7MM.png",
   "scrapers": [
