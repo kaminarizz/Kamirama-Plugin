@@ -123,7 +123,7 @@
       "id": "topanimes",
       "name": "TopAnimes",
       "description": "Séries de anime • Qualidade: variável, conforme o episódio e servidor • Formatos: HLS e MP4.",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "filename": "providers/topanimes.js",
       "logo": "https://i.imgur.com/sfcToMU.png",
       "supportedTypes": ["tv"],
