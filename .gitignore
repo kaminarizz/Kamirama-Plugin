@@ -1,0 +1,7 @@
+# This repository publishes only the Nuvio installation files.
+*
+!/.gitignore
+!/README.md
+!/manifest.json
+!/providers/
+!/providers/*.js
