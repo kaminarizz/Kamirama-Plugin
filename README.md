@@ -36,11 +36,6 @@ extração de streams.
 
 Para testar uma atualização, use **Refresh** na mesma tela do Nuvio.
 
-Homura e Tomato incluem tokens públicos nos bundles para funcionar sem
-configuração adicional. Como os bundles são baixáveis, os tokens podem ser
-extraídos por qualquer pessoa que tenha acesso aos arquivos. As configurações
-desses providers ficam disponíveis apenas para as preferências de reprodução.
-
 
 ---
 
