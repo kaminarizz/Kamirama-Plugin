@@ -4,7 +4,7 @@
   <h1>🍥 Kamirama</h1>
   <p>Por <strong>Kami</strong> · Plugin brasileiro 🇧🇷 para o Nuvio</p>
 
-  <a href="manifest.json"><img src="https://img.shields.io/badge/Providers-23%20ativos-ffb300?style=for-the-badge&logo=fastapi&logoColor=white" alt="23 providers ativos" /></a>
+  <a href="manifest.json"><img src="https://img.shields.io/badge/Providers-23%20ativos-ffb300?style=for-the-badge&logo=fastapi&logoColor=white" alt="24 providers ativos" /></a>
   <a href="https://github.com/NuvioMedia/NuvioMobile"><img src="https://img.shields.io/badge/Plataforma-Nuvio-16213e?style=for-the-badge" alt="Nuvio" /></a>
   <img src="https://img.shields.io/badge/Runtime-QuickJS-ff4757?style=for-the-badge&logo=javascript&logoColor=white" alt="QuickJS" />
   <img src="https://img.shields.io/badge/Idioma-PT--BR-009c3b?style=for-the-badge" alt="Português do Brasil" />
