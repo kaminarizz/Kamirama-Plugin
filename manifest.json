@@ -298,6 +298,19 @@
       "supportsExternalPlayer": true
     },
     {
+      "id": "pomfy",
+      "name": "Pomfy API",
+      "description": "Filmes, séries e animes• Qualidade encontrada: 1080p e 720p • Áudio: dublado ou legendado, conforme o título.",
+      "version": "0.1.0",
+      "filename": "providers/pomfy.js",
+      "supportedTypes": ["movie", "tv"],
+      "enabled": true,
+      "contentLanguage": ["pt-BR", "ja"],
+      "formats": ["mp4", "hls"],
+      "hasSettings": true,
+      "supportsExternalPlayer": true
+    },
+    {
       "id": "tomato",
       "name": "Tomato",
       "description": "Anime (séries) • Qualidades encontradas: 480p, 720p e 1080p • Áudio: dublado e legendado, conforme a temporada.",
