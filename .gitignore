@@ -5,3 +5,8 @@
 !/manifest.json
 !/providers/
 !/providers/*.js
+!/.github/
+!/.github/workflows/
+!/.github/workflows/*.yml
+!/scripts/
+!/scripts/validate-published.mjs
