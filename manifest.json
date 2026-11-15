@@ -1,6 +1,6 @@
 {
   "name": "Kamirama",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "Kamirama — fontes PT-BR de filmes, séries, animes e doramas para o runtime QuickJS do Nuvio.",
   "author": "Kami",
   "logo": "https://i.imgur.com/aYby7MM.png",
@@ -136,7 +136,7 @@
       "id": "anizero",
       "name": "AniZero",
       "description": "Anime (séries e filmes) • Qualidade encontrada: até 720p • Áudio: dublado ou legendado.",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "filename": "providers/anizero.js",
       "supportedTypes": [
         "movie",
@@ -180,7 +180,7 @@
       "id": "topanimes",
       "name": "TopAnimes",
       "description": "Anime (séries) • Qualidade encontrada: variável • Áudio: dublado ou legendado, conforme a opção disponível.",
-      "version": "0.1.15",
+      "version": "0.1.16",
       "filename": "providers/topanimes.js",
       "logo": "https://i.imgur.com/sfcToMU.png",
       "supportedTypes": [
@@ -202,7 +202,7 @@
       "id": "superanimes",
       "name": "Super Animes",
       "description": "Anime (séries e filmes) • Qualidade encontrada: variável • Áudio: dublado ou legendado.",
-      "version": "0.1.14",
+      "version": "0.1.15",
       "filename": "providers/superanimes.js",
       "logo": "https://i.imgur.com/XUfXdbk.png",
       "supportedTypes": [
@@ -270,7 +270,7 @@
       "id": "animesonlineblue",
       "name": "Animes Online Blue",
       "description": "Anime (séries) • Qualidade encontrada: até 720p • Áudio: dublado ou legendado.",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "filename": "providers/animesonlineblue.js",
       "supportedTypes": [
         "tv"
@@ -334,7 +334,7 @@
       "id": "anibunker",
       "name": "AniBunker",
       "description": "Anime (séries e filmes) • Qualidade encontrada: variável • Áudio: dublado ou legendado.",
-      "version": "0.1.14",
+      "version": "0.1.15",
       "filename": "providers/anibunker.js",
       "supportedTypes": [
         "movie",
@@ -356,7 +356,7 @@
       "id": "redeflix",
       "name": "RedeFlix API",
       "description": "Filmes, séries, anime e doramas • Qualidade encontrada: variável • Áudio: dublado ou legendado, conforme o título.",
-      "version": "0.1.12",
+      "version": "0.1.13",
       "filename": "providers/redeflix.js",
       "supportedTypes": [
         "movie",
@@ -400,7 +400,7 @@
       "id": "animesfhd",
       "name": "AnimesFHD",
       "description": "Anime (séries e filmes) • Qualidade encontrada: até 1080p via HLS • Áudio: dublado ou legendado, conforme a versão.",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "filename": "providers/animesfhd.js",
       "supportedTypes": [
         "movie",
@@ -443,7 +443,7 @@
       "id": "animy",
       "name": "Animy",
       "description": "Anime (séries e filmes) • Qualidade encontrada: variável • Áudio: dublado ou legendado, conforme o arquivo.",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "filename": "providers/animy.js",
       "supportedTypes": [
         "movie",
@@ -465,7 +465,7 @@
       "id": "anitube",
       "name": "AniTube",
       "description": "Anime (séries e filmes) • Qualidade encontrada: até 1080p via HLS • Áudio: dublado ou legendado, conforme o título.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "filename": "providers/anitube.js",
       "supportedTypes": [
         "movie",
@@ -486,7 +486,7 @@
       "id": "dattebayobr",
       "name": "Dattebayo BR",
       "description": "Anime (séries e filmes) • Qualidades encontradas: 480p, 720p e 1080p • Áudio: dublado ou legendado, conforme o título.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "filename": "providers/dattebayobr.js",
       "supportedTypes": [
         "movie",
@@ -507,7 +507,7 @@
       "id": "donghuanosekai",
       "name": "Donghua no Sekai",
       "description": "Donghua e anime (séries e filmes) • Qualidade encontrada: variável • Áudio original, geralmente em chinês, com legendas quando disponíveis.",
-      "version": "0.1.15",
+      "version": "0.1.16",
       "filename": "providers/donghuanosekai.js",
       "logo": "https://i.imgur.com/B4nm4HJ.png",
       "supportedTypes": [
@@ -576,7 +576,7 @@
       "id": "pomfy",
       "name": "Pomfy",
       "description": "Filmes, séries e animes • Qualidade encontrada: até 1080p • Áudio: multiáudio (dublado e legendado), conforme a fonte.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "filename": "providers/pomfy.js",
       "supportedTypes": [
         "movie",
